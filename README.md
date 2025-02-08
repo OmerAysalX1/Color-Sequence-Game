@@ -96,4 +96,17 @@ For those who want to get information about the connection diagram:
 ![IMG_0017](https://github.com/user-attachments/assets/192680d4-a2fb-4ed0-a1c1-0d63a29b97d8)
 
 
+##📹 Demo
+
+Click to watch the project's working videos:
+
+
+
+
+
+
+https://github.com/user-attachments/assets/56fe55f9-aff5-4ddf-80fe-fbbd63c31e60
+
+
+
 
