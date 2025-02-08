@@ -1,62 +1,99 @@
 # Color-Sequence-Game
 
-# Color Sequence Game
+This project is an embedded system based memory game that requires the player to remember randomly flashing colors in the correct order and repeat them in the correct order with increasing difficulty by adding one more color in each new round.
 
-Bu proje, oyuncunun rastgele yanan renkleri hafızasında tutarak doğru sırayla tekrar etmesini gerektiren bir **gömülü sistem hafıza oyunudur**.
+✨ Features
 
-## ✨ Özellikler
-- Rastgele oluşturulan renk dizisi
-- Oyuncunun doğru sırayı takip etmesi gerekiyor
-- Giderek zorlaşan seviyeler
-- LED göstergesi ve buton kontrolü
-- LCD ekran ile geri bildirim
-- Buzzer ile sesli uyarılar
 
-## 💻 Kullanılan Donanımlar
-- RGB LED
-- Tek renkli LED
-- Butonlar (Oyuncunun seçim yapması için)
-- Raspberry Pi Pico WH
-- Buzzer (Sesli geri bildirim için)
-- Potansiyometre (Parlaklık ayarı için)
-- 16x2 LCD (Oyun durumu ve yönlendirmeleri göstermek için)
+Randomly generated color sequence
 
-## 🔧 Kullanılan Yazılım ve Teknolojiler
-- **Python / MicroPython** (Raspberry Pi Pico için)
-- **Wokwi** (Simülasyon ve test için)
+Player must follow the correct sequence
 
-## 🌐 Kurulum
-1. **Gerekli kütüphaneleri yükleyin** (MicroPython için)
-2. **Kodları Raspberry Pi Pico'ya yükleyin**
-3. **Donanımı bağlantı şemasına göre bağlayın**
-4. **Cihazı çalıştırarak oyunu oynayın**
+Increasing difficulty levels
 
-## 🎮 Nasıl Oynanır?
-1. Oyun rastgele bir LED yakarak başlar.
-2. **Yeşil LED** yanarsa, oyuncunun sırasının geldiğini belirtir.
-3. Oyuncu, LED sırasını doğru şekilde butonlara basarak tekrar etmelidir.
-4. Doğru seçim yapıldığında, bir sonraki turda yeni bir renk eklenir.
-5. Yanlış seçim yapılırsa "Wrong Button" uyarısı görünür ve oyun baştan başlar.
+LED indicators and button control
 
-## 📸 Projeden Görseller
-Aşağıda proje sırasında alınan bazı görselleri bulabilirsiniz:
+LCD screen for feedback
 
-(./I![IMG_0014](https://github.com/user-attachments/assets/feda0e36-31eb-4b2f-b6c6-eb3c9c0c9369)
+Buzzer for audible alerts
+
+
+
+💻 Hardware Used
+
+
+  RGB LED
+  
+  Single color LED
+  
+  Buttons
+  
+  Raspberry Pi Pico WH
+  
+  Buzzer
+  
+  Potentiometer
+  
+  16x2 LCD 
+
+
+
+🔧 Software and Technologies Used
+
+
+  Python / MicroPython (for Raspberry Pi Pico)
+  
+  Fritzing (for simulation and testing)
+
+
+
+🌐 Setup
+
+
+  Install necessary libraries (for MicroPython)
+  
+  Upload the code to Raspberry Pi Pico WH
+  
+  Connect the hardware according to the wiring diagram
+  
+  Run the device and start playing the game
+
+
+
+🎮 How to Play?
+
+
+  The game starts by lighting up a random LED.
+  
+  If the Green LED lights up, it signals that it is the player's turn.
+  
+  The player must repeat the LED sequence by pressing the buttons in the correct order.
+  
+  After a correct selection, a new color is added in the next round.
+  
+  If a wrong selection is made, a "Wrong Button" warning appears, and the game restarts.
+
+## 📸 Images from the project
+Here are some images taken during the project:
+
+![IMG_0014](https://github.com/user-attachments/assets/feda0e36-31eb-4b2f-b6c6-eb3c9c0c9369)
 MG_0011.jpeg)
-(./IMG_0013.![IMG_0012](https://github.com/user-attachments/assets/a58e6d53-0e69-45c2-ad52-81973d34f635)
+
+
+![IMG_0012](https://github.com/user-attachments/assets/a58e6d53-0e69-45c2-ad52-81973d34f635)
 jpeg)
-(./IMG_0014.j![IMG_0011](https://github.com/user-attachments/a![IMG_0015](https://github.com/user-attachments/assets/6b0faff2-d0c1-4373-ba42-7625f21ca811)
-ssets/27145a9f-a4b3-4035-ad21-cd36e3a47ef1)
+
+
+![IMG_0015](https://github.com/user-attachments/assets/92bbc62b-9512-40fd-bf50-440cfe325351)
+
+
+![IMG_0013](https://github.com/user-attachments/assets/e405b527-e882-40af-a2af-cb6d29de38db)
 peg)
-(./wrong_button.j![IMG_0013](https://github.com/user-attachments/assets/e405b527-e882-40af-a2af-cb6d29de38db)
-peg)
 
-## ✨ Demo
-Oyunun çalıştığını gösteren bir video için [buraya tıklayın](./game_video.mp4).
+## ✨ Similation
+For those who want to get information about the connection diagram:
 
-## 💡 Katkıda Bulunma
-Projeye katkıda bulunmak isterseniz, lütfen **pull request** göndermekten çekinmeyin!
+![IMG_0017](https://github.com/user-attachments/assets/192680d4-a2fb-4ed0-a1c1-0d63a29b97d8)
 
-## 📄 Lisans
-Bu proje **MIT Lisansı** altında yayınlanmıştır.
+
 
