@@ -41,10 +41,14 @@ Bu proje, oyuncunun rastgele yanan renkleri hafızasında tutarak doğru sırayl
 ## 📸 Projeden Görseller
 Aşağıda proje sırasında alınan bazı görselleri bulabilirsiniz:
 
-![Oyun Ekranı](./IMG_0011.jpeg)
-![Oyun Devam](./IMG_0013.jpeg)
-![Sıra Sende](./IMG_0014.jpeg)
-![Yanlış Buton](./wrong_button.jpeg)
+![Oyun Ekranı](./I![IMG_0014](https://github.com/user-attachments/assets/feda0e36-31eb-4b2f-b6c6-eb3c9c0c9369)
+MG_0011.jpeg)
+![Oyun Devam](./IMG_0013.![IMG_0012](https://github.com/user-attachments/assets/a58e6d53-0e69-45c2-ad52-81973d34f635)
+jpeg)
+![Sıra Sende](./IMG_0014.j![IMG_0011](https://github.com/user-attachments/assets/27145a9f-a4b3-4035-ad21-cd36e3a47ef1)
+peg)
+![Yanlış Buton](./wrong_button.j![IMG_0013](https://github.com/user-attachments/assets/e405b527-e882-40af-a2af-cb6d29de38db)
+peg)
 
 ## ✨ Demo
 Oyunun çalıştığını gösteren bir video için [buraya tıklayın](./game_video.mp4).
