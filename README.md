@@ -2,7 +2,7 @@
 
 This project is an embedded system based memory game that requires the player to remember randomly flashing colors in the correct order and repeat them in the correct order with increasing difficulty by adding one more color in each new round.
 
-✨ Features
+# ✨ Features
 
 
 Randomly generated color sequence
@@ -19,7 +19,7 @@ Buzzer for audible alerts
 
 
 
-💻 Hardware Used
+# 💻 Hardware Used
 
 
   RGB LED
@@ -38,7 +38,7 @@ Buzzer for audible alerts
 
 
 
-🔧 Software and Technologies Used
+# 🔧 Software and Technologies Used
 
 
   Python / MicroPython (for Raspberry Pi Pico)
@@ -47,7 +47,7 @@ Buzzer for audible alerts
 
 
 
-🌐 Setup
+# 🌐 Setup
 
 
   Install necessary libraries (for MicroPython)
@@ -60,7 +60,7 @@ Buzzer for audible alerts
 
 
 
-🎮 How to Play?
+# 🎮 How to Play?
 
 
   The game starts by lighting up a random LED.
